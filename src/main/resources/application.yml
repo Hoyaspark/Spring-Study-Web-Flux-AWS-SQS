@@ -1,0 +1,13 @@
+aws:
+  sqs:
+    url: https://sqs.ap-northeast-2.amazonaws.com/851810576678/index.fifo
+  credentials:
+    access-key: AKIA4MU655ETG65ZAJEP
+    secret-key: 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
+
+cloud:
+  aws:
+    stack:
+      auto: false
+    region:
+      static: ap-northeast-2
